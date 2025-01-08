@@ -229,8 +229,7 @@ For the target `example.com`:
 ## **Support**
 
 For any issues, feature requests, or suggestions:
-- Contact: **youremail@example.com**
-- GitHub Repository: [GitHub Link] (Add your repository link here)
+- Contact: **python.shield@aes256.io**
 
 ---
 
